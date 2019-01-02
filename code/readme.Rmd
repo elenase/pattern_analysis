@@ -1,0 +1,31 @@
+---
+title: "ReadMe"
+author: "Elena Seydel"
+date: "1 Oktober 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## How this project should be applied
+
+This project is structural divided into three main folders:
+
+1) code
+2) data
+3) out
+
+
+### Code
+
+The folder 'code' is divided thematically into 
+
++ 0_preprocessing
++ 01_univariate_maps
++ 02_lc_analyis
++ 03_spatial_regression
+
+and should be run in that order
+
