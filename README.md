@@ -14,9 +14,10 @@ This project is structural divided into three main folders (folder structure is 
 
 The folder 'code' is divided thematically into 
 
-+ 0_preprocessing
-+ 01_univariate_maps
-+ 02_lc_analyis
-+ 03_spatial_regression
++ 01_preprocessing
++ 02_univariate_maps
++ 03_lc_analyis
++ 04_spatial_regression
++ 05_extra (some extra coding)
 
 and should be run in that order
