@@ -7,7 +7,7 @@ cat("Package installation\n")
 #"maptools","rgdal","rgeos","ggmap","sp",")
 #install.packages(pkgs=lab.packages)
 
-packages <- c(#"ggplot2", # package for elegant data visualization using the Grammar of Graphics
+packages <- c("ggplot2", # package for elegant data visualization using the Grammar of Graphics
               "Hmisc", # generate a detailled describtion of a given dataset 
               # "AER",  # interesting datasets
               "lattice",
@@ -66,7 +66,8 @@ packages <- c(#"ggplot2", # package for elegant data visualization using the Gra
               "qdapTools",
               "doBy",
               "ggpubr",
-              "scales"
+              "scales",
+              "ggmap"
               
               
 )
@@ -95,7 +96,7 @@ library(lubridate)
 
 ############################################
 #### graphic 
-#library(ggplot2) ## The grammar of graphics!
+library(ggplot2) ## The grammar of graphics!
 library(directlabels)
 library(extrafont) ## Additional fonts
 #library(ggthemes) ## Additional themes for gplot2
