@@ -3,11 +3,11 @@ Pattern Analysis on the Context of Forced Displacement
 
 ## How this project should be applied
 
-This project is structural divided into three main folders:
+This project is structural divided into three main folders (folder structure is created by the code):
 
 1) code
 2) data (not provided)
-3) out
+3) out 
 
 
 ### Code
