@@ -1,4 +1,4 @@
-##############################################################################################
+#############################################################################################
 cat("Check temporal autocorrelation of risk categories in dependence on year of arrival \n")
 
 a <- grep("^child.risk$", colnames(data))
