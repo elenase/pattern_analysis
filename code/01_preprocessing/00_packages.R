@@ -1,5 +1,5 @@
 
-#rm(list = ls())
+#rm(list = ls()) 
 ############################################################################
 cat("Package installation\n")
 ### Uncomment to load the packages used in this analysis
